@@ -1,0 +1,3 @@
+.Toastify__toast-container {
+    z-index: 1000 !important; /* Ensure this is higher than the navbar's z-index */
+  }
